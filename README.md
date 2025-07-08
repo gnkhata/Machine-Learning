@@ -8,3 +8,5 @@ Projects for Machine Learning class at University of Arkansas Fall 2021.
 diabetes (positive class). The data used in the code is from National Institute of Diabetes and Digestive and Kidney Diseases. A total of 8 features is used, including Preg (number of times pregnant), Pres (Diastolic blood pressure), Mass (body mass index), etc. There is a total number of 760 patients in the data.
 
 **assignment3.ipynb** implements a neural network to recognize handwritten digits from scratch. The code implements the forward propagation algorithm for prediction, and also to implement the backpropagation algorithm for learning the weights.
+
+**assignment4.ipynb** implements a machine learning model using a healthcare dataset to predict if a person will have stroke or not. The features in the dataset are: Id, gender, age, hypertension, heart-disease, ever-married, work-type, residence, average-glucose, bmi, and smoking status.
